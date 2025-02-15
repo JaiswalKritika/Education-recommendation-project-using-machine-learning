@@ -39,7 +39,7 @@ This project builds an **Education Recommendation System** that predicts a stude
 - Feature scaling improved model performance.
 
 ## Future Improvements
-- Experiment with advanced models like **XGBoost or Neural Networks** for better accuracy.
+- Experiment with advanced models like **Neural Networks** for better accuracy.
 - Integrate additional features like **personality traits and interests**.
 
 
